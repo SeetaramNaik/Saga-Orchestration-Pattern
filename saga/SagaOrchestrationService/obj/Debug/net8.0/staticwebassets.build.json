@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WWDbTB6VGNjk/FZvrA6m4Gop946RdwEbpIeOYnbXXDo=",
+  "Source": "SagaOrchestrationService",
+  "BasePath": "_content/SagaOrchestrationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
