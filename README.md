@@ -1,4 +1,4 @@
-# Book Store Application
+# Saga Orchestration Pattern
 
 1. Swagger UI
 ![Swagger UI](swagger.png)
